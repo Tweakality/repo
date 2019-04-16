@@ -1,0 +1,9 @@
+Package: com.tweakality.homebarbegone
+Name: HomeBarBeGone
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: "Be gone, HomeBar!"
+Maintainer: TweakalityDev
+Author: TweakalityDev
+Section: Tweaks
